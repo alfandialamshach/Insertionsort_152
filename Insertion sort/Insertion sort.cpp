@@ -38,5 +38,6 @@ void insertionsort() {									//Procedure insertionsort
 
 	for (int i = 1; i < n; i++) {						// Looping dari i dimulai dari 1 hingga n-1
 
+		temp = arr[i];									// Simpan nilai arr[i] ke variable sementara temp
 	}
 }
