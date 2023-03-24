@@ -35,4 +35,8 @@ void insertionsort() {									//Procedure insertionsort
 
 	int temp;											// Membuat variable data temporer atau penyimpanan sementara
 	int j;												// Membuat variable j sebagai penanda
+
+	for (int i = 1; i < n; i++) {						// Looping dari i dimulai dari 1 hingga n-1
+
+	}
 }
