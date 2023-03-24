@@ -19,4 +19,7 @@ void input() {			// Procedure input
 		}
 	}
 	cout << endl;									// Membuat jarak per baris program
+	cout << "=====================" << endl;			// Membuat tampilan susunan data elemen array
+	cout << "Masukkan Elemen Array" << endl;			// Membuat tampilan susunan data elemen array
+	cout << "=====================" << endl;
 }
