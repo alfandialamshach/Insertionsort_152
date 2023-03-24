@@ -59,3 +59,7 @@ void insertionsort() {									//Procedure insertionsort
 	}
 
 }
+
+void display() {										// Procedure display
+
+}
