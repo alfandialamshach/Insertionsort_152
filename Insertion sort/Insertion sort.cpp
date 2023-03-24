@@ -30,6 +30,9 @@ void input() {			// Procedure input
 		cin >> arr[i];									// Menyimpan nilai data n k edalam array arr
 	}
 }
+
 void insertionsort() {									//Procedure insertionsort
 
+	int temp;											// Membuat variable data temporer atau penyimpanan sementara
+	int j;												// Membuat variable j sebagai penanda
 }
