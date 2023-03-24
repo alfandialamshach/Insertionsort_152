@@ -22,4 +22,7 @@ void input() {			// Procedure input
 	cout << "=====================" << endl;			// Membuat tampilan susunan data elemen array
 	cout << "Masukkan Elemen Array" << endl;			// Membuat tampilan susunan data elemen array
 	cout << "=====================" << endl;
+
+
+	for (int i = 0; i < n; i++)							// Menggunakan perulangan for untuk menyimpan data array
 }
