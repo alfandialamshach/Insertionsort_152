@@ -30,3 +30,6 @@ void input() {			// Procedure input
 		cin >> arr[i];									// Menyimpan nilai data n k edalam array arr
 	}
 }
+void insertionsort() {									//Procedure insertionsort
+
+}
