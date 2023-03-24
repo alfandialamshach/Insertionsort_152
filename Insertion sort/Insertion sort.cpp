@@ -41,5 +41,8 @@ void insertionsort() {									//Procedure insertionsort
 		temp = arr[i];									// Simpan nilai arr[i] ke variable sementara temp
 
 		j = i - 1;										// 3. Setting nilai j sama dengan i-1
+
+		while (j >= 0 && arr[j] > temp)					// 4. Looping while dimana j lebih besar sama dengan 0
+														//  dan arr[j] lebih besar dari pada temp
 	}
 }
